@@ -1,1 +1,11 @@
 /* Your code here */
+.card-1 img (
+        width: 1in;
+      )
+.top-banner (
+        font-family: 'Courier New', monospace;
+        text-align: center;
+        border-bottom: 2px solidcolor #8fe3cf
+background-color: #f5dfa6;
+color: white;
+        )
