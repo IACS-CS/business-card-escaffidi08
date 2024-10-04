@@ -4,9 +4,32 @@
   width: 1in;
 }
 .top-banner {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
-
+  border-bottom: 2px solid #407287
 }
 .title{
-  
+  text-transform: capitalize;
+  font-size: 32pt;
+}
+.left {
+  display: inline-block;
+  width: 61%;
+  box-sizing: border-box;
+  font-size: 10pt;
+}
+.right {
+  display: inline-block;
+  width: 37%;
+  box-sizing: border-box;
+}
+.bottom{
+  paddng: 1em;
+}
+.contact{
+  margin-top: 1em;
+}
+.names{
+  font-weight: bold;
+  fond-size: 120%;
 }
