@@ -31,5 +31,9 @@
 }
 .names{
   font-weight: bold;
-  fond-size: 120%;
+  font-size: 120%;
+}
+.label{
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
