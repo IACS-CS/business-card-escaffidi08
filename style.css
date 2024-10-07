@@ -10,24 +10,29 @@
 }
 .title{
   text-transform: capitalize;
+  text-align: center;
   font-size: 32pt;
 }
 .left {
   display: inline-block;
-  width: 61%;
+  width: 50%;
   box-sizing: border-box;
   font-size: 10pt;
 }
 .right {
-  display: inline-block;
-  width: 37%;
+  display: flex;
+  justify-content: flex-start;
+  width: 1in;
   box-sizing: border-box;
+  font-size: 7pt;
+  order: 3
 }
 .bottom{
-  paddng: 1em;
+  padding: 1em;
 }
 .contact{
   margin-top: 1em;
+  font-size: 8pt;
 }
 .names{
   font-weight: bold;
