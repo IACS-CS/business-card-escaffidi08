@@ -6,7 +6,7 @@
 .top-banner {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
-  border-bottom: 2px solid #407287
+  border-bottom: 2px solid #407287;
 }
 .title{
   text-transform: capitalize;
@@ -21,7 +21,7 @@
 }
 .right {
   display: flex;
-  justify-content: flex-start;
+  align-self: flex-end;
   width: 1in;
   box-sizing: border-box;
   font-size: 7pt;
