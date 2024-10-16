@@ -20,12 +20,10 @@
   font-size: 10pt;
 }
 .right {
-  display: flex;
-  align-self: flex-end;
-  width: 1in;
+  display: inline-block;
+  width: 50%;
   box-sizing: border-box;
   font-size: 7pt;
-  order: 3
 }
 .bottom{
   padding: 1em;
