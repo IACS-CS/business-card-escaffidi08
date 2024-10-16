@@ -14,23 +14,29 @@
   font-size: 32pt;
 }
 .left {
-  display: inline-block;
+  display: grid;
   width: 50%;
   box-sizing: border-box;
   font-size: 10pt;
+  padding: 1%;
 }
 .right {
-  display: inline-block;
-  width: 50%;
+  display: grid;
+  width: 30%;
   box-sizing: border-box;
   font-size: 7pt;
+  text-align: center;
+  padding: 1%;
 }
 .bottom{
   padding: 1em;
 }
 .contact{
-  margin-top: 1em;
-  font-size: 8pt;
+  display: grid;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 1%;
+  font-size: 7pt;
 }
 .names{
   font-weight: bold;
