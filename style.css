@@ -22,6 +22,7 @@
 }
 .right {
   display: grid;
+  grid-template-columns: auto;
   width: 30%;
   box-sizing: border-box;
   font-size: 7pt;
@@ -29,6 +30,7 @@
   padding: 1%;
 }
 .bottom{
+  display: grid;
   padding: 1em;
 }
 .contact{
